@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=ff652f&center=true&vCenter=true&width=435&lines=Davi+Souza" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ff652f&center=true&vCenter=true&width=700&lines=Welcome!+:)" alt="Typing SVG" /></a>
 <br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01davisouzaF&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
