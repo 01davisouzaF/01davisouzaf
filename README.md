@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=ff652f&center=true&vCenter=true&width=435&lines=Davi+Souza" alt="Typing SVG" /></a>
 <br>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01davisouzaf&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01davisouzaf&layout=compact)](https://github.com/01davisouzaf/github-readme-stats&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01davisouzaF&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01davisouzaF&layout=compact)](https://github.com/01davisouzaf/github-readme-stats&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
