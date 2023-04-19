@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=ff652f)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ff652f&center=true&vCenter=true&width=700&lines=Welcome!+:)" alt="Typing SVG" /></a>
 <br>
 <div>
@@ -19,4 +20,5 @@
    <a href="https://www.linkedin.com/in/01davisouzaF" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/davi.souza16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizdavi.freitasf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ <img width=85% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=ff652f"/>
 </div>
