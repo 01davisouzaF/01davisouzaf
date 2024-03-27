@@ -15,6 +15,10 @@
 
 ###
 
+<h5 align="left">My Skills:</h5>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
@@ -45,6 +49,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/01davisouzaF/01davisouzaF/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration-Dark.jpg"  />
+</div>
 
 ###
