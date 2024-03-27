@@ -48,9 +48,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="300" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration-Dark.jpg"  />
-</div>
-
-###
